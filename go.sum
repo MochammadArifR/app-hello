@@ -1,0 +1,6 @@
+github.com/MochammadArifR/go-hello v1.0.0 h1:EGL0Pyv3153o2phlhXokERAL51pbFbrs9cOGGh2WWO0=
+github.com/MochammadArifR/go-hello v1.0.0/go.mod h1:Sqg7Zp6Z5xE3PbCXG4ONKd3+V6TzkwiCvM9FGbTWKdg=
+github.com/MochammadArifR/go-hello v1.1.0 h1:mwQWh908EgUbFH9d0EvQt4RaOjF6RUtlL7tf+9A4uoc=
+github.com/MochammadArifR/go-hello v1.1.0/go.mod h1:Sqg7Zp6Z5xE3PbCXG4ONKd3+V6TzkwiCvM9FGbTWKdg=
+github.com/MochammadArifR/go-hello/v2 v2.0.0 h1:zDxAwtSjmLbezWymV88xcmfgT4THN6dKxlpvvjPEvCY=
+github.com/MochammadArifR/go-hello/v2 v2.0.0/go.mod h1:jD8gqGaQ2U84Fa5XbP2FZxj6aDVetybpGC3eEqQ2SEk=
